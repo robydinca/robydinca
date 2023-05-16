@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my own!**
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [robydinca.dev](robydinca.dev)
+- 👨‍💻 All of my projects are available at [https://robydinca.github.io/]([robydinca.dev](https://robydinca.github.io/)) + slash + name of project
 
 - 💬 Ask me about **HTML & CSS & JavaScript**
 
@@ -28,5 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robydinca&" alt="robydinca" /></p>
 
-# robydinca
 # robydinca
