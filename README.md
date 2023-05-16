@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://robydinca.github.io/]([robydinca.dev](https://robydinca.github.io/)) + slash + name of project
+- 👨‍💻 All of my projects are available at ([robydinca.dev](https://robydinca.github.io/)) + slash + name of project
 
 - 💬 Ask me about **HTML & CSS & JavaScript**
 
