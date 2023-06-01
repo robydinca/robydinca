@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robydinca&label=Profile%20views&color=0e75b6&style=flat" alt="robydinca" /> </p>
 
-- 🔭 I’m currently working on **my own!**
+- 🔭 I’m currently working on **different personal projects, check my repositories!**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at ([robydinca.dev](https://robydinca.github.io/)) + slash + name of project
+- 👨‍💻 All of my projects are available at ([robydinca.dev](https://robydinca.github.io/)) + / + name of the repositorie
 
 - 💬 Ask me about **HTML & CSS & JavaScript**
 
